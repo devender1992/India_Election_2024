@@ -1,6 +1,6 @@
-python==3.11
+python
 streamlit
-matplotlib==3.8
+matplotlib
 seaborn
 scikit-learn
 plotly
